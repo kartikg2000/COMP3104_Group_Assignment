@@ -1,0 +1,1 @@
+- DevOps is an organizational approach to the management and deployment of applications.
