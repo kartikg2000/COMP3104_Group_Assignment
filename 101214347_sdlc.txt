@@ -1,4 +1,5 @@
 - DevOps is an organizational approach to the management and deployment of applications.
 
-- DevOps allows for faster development and easier maintenance, promoting shorter and more controlled iteraions by using automation, best practices, and tools. 
+- DevOps allows for faster development and easier maintenance, promoting shorter and more controlled iterations by using automation, best practices, and tools. 
 
+- The software development life cycle will aid the developer in understanding and planning the steps they will have to take in order to complete the project.
