@@ -1,1 +1,5 @@
-- COMP3104 is a course offered to students in their 5th term at GBC within the T127 program. 
+- COMP3104 is a course offered to students in their 5th term at GBC within the T127 program.
+
+- Students will learn to create their own automated build pipeline
+
+- Students will learn about resources such as git and jenkins, as well as AWS, kubenetes, maven, etc.
