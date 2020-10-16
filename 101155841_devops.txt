@@ -1,0 +1,2 @@
+DevOps is a set of practices that combines software development and IT operations.
+COMP3104 gives students an intro to the complex field of DevOps.
