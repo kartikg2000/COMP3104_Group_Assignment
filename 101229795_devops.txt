@@ -1,0 +1,4 @@
+DevOps is a culture which promotes collaboration between Development and Operations Team to deploy code
+to production faster in an automated & repeatable way.In simple words, DevOps can be defined as an
+alignment of development and IT operations with better communication and collaboration.In this Course
+we get introduced by VCS(Version Control System).Must use for collabaration
